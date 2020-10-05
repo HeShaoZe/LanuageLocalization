@@ -1,0 +1,16 @@
+/* 
+  InfoPlist.strings
+  LanuageLocalization
+
+  Created by Ze Shao on 2020/10/5.
+  Copyright © 2020 Ze Shao. All rights reserved.
+*/
+
+//CFBundleDisplayName = "我的应用程序";
+
+///App名字
+CFBundleName = "我的应用程序";
+///访问相册的提示
+NSPhotoLibraryUsageDescription = "此App您的同意才能读取相册吗？";
+///访问相机的提示
+NSCameraUsageDescription = "打开摄像头";
